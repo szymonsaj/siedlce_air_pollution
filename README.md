@@ -23,12 +23,15 @@ Dataset was created using:
 * https://powietrze.gios.gov.pl/pjp/current/station_details/archive/517 - PM10 and PM2.5 concentrations from station on Konarskiego 11 Street,
 * https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00548-1 - idea to creation the models,
 * Normal Calendar - for weeks and holidays.
+I was used the data from January 2020 to December 2022.
 
 ## Goal
-Creating 2 Machine Learning predictors of 
+Creating 2 Machine Learning predictors of concentration PM2.5 and PM10. 
+Additionally, I describe AQI for new data predicions.
+In the end, I want to predict 8 months in 2023 (from January to August) with corect data.
 
 ## What I do
-
+I created 2 models for predicition the concentration and AQI. 
 
 ## Summary
 
