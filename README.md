@@ -34,8 +34,11 @@ In the end, I want to predict 8 months in 2023 (from January to August) with cor
 Machine Learning project focused on regression models. In the project, regression models (ANN) were created and used R2, MAE and RMSE parameters to determine their performance. 
 
 ## Summary
-First, Siedlce is healthy city with a lot of days with Good or Very Good Air Quality Index (Around 90%). 
-Unfortunatlly, it isn't good for our models, because the predictors doesn't work well for worst weather parameters. 
-During analisys the Dataset, I noticed that during weekends and holidays a concentration of pollutions is highter. 
-So, I decided to add this parameters to my dataset. Unfortunatlly, correlation was low. 
-
+Firstly, Siedlce is largely a healthy city, experiencing a significant number of days with "Good" or "Very Good" Air Quality Index—approximately 90% of the time. 
+Unfortunately, this is not conducive to the efficiency of our models, as the predictors don't perform well under deteriorated weather parameters.
+Upon analyzing the dataset, I observed that concentrations of pollutants were higher during weekends and holidays. 
+Consequently, I opted to incorporate these parameters into my dataset. 
+However, the correlation proved to be minimal.
+In the predictions for 2023, it is evident that the models accurately forecast days with good air quality — a trend I had noticed during the dataset analysis. 
+In my view, this suggests a need to either refine the existing model or select a city with a greater frequency of unhealthy days.
+It is crucial to note that the models are tailored specifically for Siedlce and may not be effective for other cities due to the inherent variations in geographical, industrial and demographic factors. 
