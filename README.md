@@ -17,7 +17,12 @@ By doing so, we can raise awareness and contribute to improving the overall air 
 This endeavor will help create a future smart city where technology and data contribute to healthier and more sustainable urban living, especially in areas where industrial activities are not the major contributors to air pollution.
 
 ## Sources
-Dataset was created using: https://siedlce.meteo.com.pl/hist.pl - where I found information about Temperature, 
+Dataset was created using: 
+*https://siedlce.meteo.com.pl/hist.pl - where I found information about Temperature, Precipitation and Wind Speed,
+*https://powietrze.gios.gov.pl/pjp/content/health_informations - skale.jpg - describe AQI
+*https://powietrze.gios.gov.pl/pjp/current/station_details/archive/517 - PM10 and PM2.5 concentrations from station on Konarskiego 11 Street
+*https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00548-1 - idea to creation the models
+*Normal Calendar - for weeks and holidays
 
 ## Goal
 Creating 2 Machine Learning predictors of 
