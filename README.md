@@ -31,7 +31,11 @@ Additionally, I describe AQI for new data predicions.
 In the end, I want to predict 8 months in 2023 (from January to August) with corect data.
 
 ## What I do
-I created 2 models for predicition the concentration and AQI. 
+Machine Learning project focused on regression models. In the project, regression models (ANN) were created and used R2, MAE and RMSE parameters to determine their performance. 
 
 ## Summary
+First, Siedlce is healthy city with a lot of days with Good or Very Good Air Quality Index (Around 90%). 
+Unfortunatlly, it isn't good for our models, because the predictors doesn't work well for worst weather parameters. 
+During analisys the Dataset, I noticed that during weekends and holidays a concentration of pollutions is highter. 
+So, I decided to add this parameters to my dataset. Unfortunatlly, correlation was low. 
 
